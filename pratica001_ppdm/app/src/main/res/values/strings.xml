@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">telaLoginPratica1</string>
+    <string name="apresentation">Welcome Back!</string>
+    <string name="description">Please Log into your existing account</string>
+    <string name="userLogin">Your email</string>
+    <string name="passwordLogin">Your password</string>
+    <string name="logIn">Log in</string>
+    <string name="createAccount">Create account</string>
+    <string name="forgotPassword">Forgot password</string>
+</resources>
