@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">telaLoginPratica1</string>
+    <string name="apresentation">Bem vindo de volta!</string>
+    <string name="description">Por favor, entre com sua conta existente</string>
+    <string name="userLogin">Seu e-mail</string>
+    <string name="passwordLogin">Sua senha</string>
+    <string name="logIn">Entrar</string>
+    <string name="createAccount">Criar conta</string>
+    <string name="forgotPassword">Esqueceu senha</string>
+</resources>

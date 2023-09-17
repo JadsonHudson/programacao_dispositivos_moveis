@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pratica002_ppdm</string>
+    <string name="button">Button</string>
+    <string name="nota1">nota1</string>
+    <string name="nota2">nota2</string>
+    <string name="nota3">nota3</string>
+    <string name="adicionarBtn">Adicionar nota</string>
+    <string name="editarBtn">Editar</string>
+    <string name="excluirBtn">Excluir</string>
+    <string name="infoNomeHint">Informe o nome</string>
+    <string name="infoNotaHint">Informe a nota</string>
+    <string name="headerTabelaNome">Nome:</string>
+    <string name="headerTabelaNota1">Nota 1:</string>
+    <string name="headerTabelaNota2">Nota 2:</string>
+    <string name="headerTabelaNota3">Nota 3:</string>
+    <string name="title">Relação de notas</string>
+</resources>
